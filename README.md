@@ -1,115 +1,221 @@
-<h1 align="center">Hi, I'm Bhaskara Prabhat Srinivasula 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>🔐 Cybersecurity Analyst &nbsp;|&nbsp; SOC Monitoring &nbsp;|&nbsp; Threat Detection &nbsp;|&nbsp; Cloud Security</b><br/>
-  <i>Building secure systems & real-world security projects from Andhra Pradesh, India</i>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Bhaskara%20Prabhat%20Srinivasula&fontSize=38&fontColor=58a6ff&fontAlignY=38&desc=Cybersecurity%20Analyst%20%7C%20SOC%20%7C%20Threat%20Detection%20%7C%20Cloud%20Security&descAlignY=58&descSize=16&descColor=8b949e"/>
 
-<p align="center">
-  <a href="https://bhaskar.42web.io"><img src="https://img.shields.io/badge/Portfolio-bhaskar.42web.io-blue?style=flat-square&logo=google-chrome"/></a>
-  <a href="https://linkedin.com/in/bhaskara-prabhat"><img src="https://img.shields.io/badge/LinkedIn-bhaskara--prabhat-0077B5?style=flat-square&logo=linkedin"/></a>
-  <a href="mailto:s.bhaskarprabhat@gmail.com"><img src="https://img.shields.io/badge/Email-s.bhaskarprabhat@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-</p>
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=🔐+Cybersecurity+Analyst+%7C+SOC+Engineer;🛡️+MITRE+ATT%26CK+%7C+Splunk+SIEM+%7C+Wireshark;☁️+AWS+Cloud+Security+%7C+Incident+Response;🚀+Building+Secure+Systems+%26+Real-World+Projects)](https://git.io/typing-svg)
+
+<br/>
+
+<a href="https://bhaskar.42web.io">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-bhaskar.42web.io-0A66C2?style=for-the-badge&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/bhaskara-prabhat">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:s.bhaskarprabhat@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/srinivasulabhaskarprabhat-pixel">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"/>
 
-I'm a Cybersecurity Analyst with hands-on SOC experience, passionate about threat detection, incident response, and securing web applications. I work with industry-standard tools like **Splunk SIEM**, **Wireshark**, **OWASP ZAP**, and **Wazuh**, and I map findings to the **MITRE ATT&CK** framework.
+## 🧠 Who Am I?
 
-- 🛡️ Experienced in monitoring & triaging **50+ daily alerts** in a live SOC environment
-- 🔍 Skilled in detecting threats like **T1190 (Exploit Public-Facing App)**, **T1059 (Command Execution)**, **T1110 (Brute Force)**, **T1566 (Phishing)**
-- 🌩️ Cloud security experience on **AWS** (EC2, S3, IAM, CloudWatch)
-- 💻 Builder of AI-powered security tools and full-stack web projects
+I'm a **Cybersecurity Analyst** based in Andhra Pradesh, India — forged in a live SOC environment and driven by a deep commitment to building systems that attackers can't break. I speak fluent MITRE ATT&CK, live inside Splunk dashboards, and dissect packets the way others scroll social media.
+
+> *Protecting infrastructure isn't just a job — it's a mission.*
+
+- 🎯 Triaged **50+ daily alerts** at Infosys using Splunk SIEM
+- 🔬 Mapped threats to **MITRE ATT&CK** techniques: T1190 · T1059 · T1110 · T1566
+- 🌐 Hunted **XSS, SQL Injection & CSRF** with OWASP ZAP
+- ☁️ Secured cloud workloads on **AWS** with IAM least-privilege controls
+- 🤖 Built an **AI-powered SOC dashboard** powered by Groq AI
+
+<br/>
 
 ---
 
-## 🛠️ Skills & Tools
+## ⚔️ Arsenal — Tools & Technologies
 
-### 🔒 Cybersecurity
-![Splunk](https://img.shields.io/badge/Splunk-SIEM-black?style=flat-square&logo=splunk)
-![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analysis-1679A7?style=flat-square&logo=wireshark)
-![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-Web%20Vuln%20Scanner-purple?style=flat-square)
-![Wazuh](https://img.shields.io/badge/Wazuh-SIEM%2FXDR-005571?style=flat-square)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Web%20Security-orange?style=flat-square)
-![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanner-green?style=flat-square)
+<div align="center">
 
-### ☁️ Cloud & Dev
-![AWS](https://img.shields.io/badge/AWS-EC2%20%7C%20S3%20%7C%20IAM-FF9900?style=flat-square&logo=amazon-aws)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-CLI-FCC624?style=flat-square&logo=linux&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### 🔒 Cybersecurity & SOC
+![Splunk](https://img.shields.io/badge/Splunk-SIEM-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-Packet_Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-Web_Scanning-8A2BE2?style=for-the-badge)
+![Wazuh](https://img.shields.io/badge/Wazuh-SIEM/XDR-005571?style=for-the-badge)
+![RSA NetWitness](https://img.shields.io/badge/RSA_NetWitness-Threat_Intel-CC0000?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-Web_Security-FF6633?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-Network_Recon-4CAF50?style=for-the-badge)
+![SET](https://img.shields.io/badge/SE_Toolkit-Social_Eng-8B0000?style=for-the-badge)
+
+### ☁️ Cloud & Infrastructure
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-Compute-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-Storage-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/AWS_IAM-Access_Control-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-Monitoring-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_CLI-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 💻 Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### 📊 Data & Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
-### 📐 Frameworks
-`MITRE ATT&CK` &nbsp;|&nbsp; `OWASP Top 10` &nbsp;|&nbsp; `NIST CSF` &nbsp;|&nbsp; `Incident Response Lifecycle`
+### 📐 Frameworks & Standards
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-Framework-CC0000?style=for-the-badge)
+![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-Standard-000000?style=for-the-badge)
+![NIST CSF](https://img.shields.io/badge/NIST_CSF-Compliance-003087?style=for-the-badge)
+![IR Lifecycle](https://img.shields.io/badge/Incident_Response-Lifecycle-6A0DAD?style=for-the-badge)
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛡️ [CipherWatch](https://github.com/srinivasulabhaskarprabhat-pixel/CipherWatch) — AI-Powered SOC Dashboard
-> Real-time cybersecurity monitoring dashboard with MITRE ATT&CK-mapped log analysis
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-- Detects **Brute Force (T1110)**, **XSS (T1059)**, **SQL Injection (T1190)**, **Phishing (T1566)**
-- Built with HTML, CSS, JS, PHP, Chart.js, and Groq AI API
-- Live demo: [cipherwatch.42web.io](https://cipherwatch.42web.io)
+### 🛡️ CipherWatch — AI-Powered SOC Dashboard
+[![CipherWatch](https://img.shields.io/badge/🔗_Live_Demo-cipherwatch.42web.io-58a6ff?style=flat-square)](https://cipherwatch.42web.io)
+[![GitHub](https://img.shields.io/badge/Source-Code-181717?style=flat-square&logo=github)](https://github.com/srinivasulabhaskarprabhat-pixel/CipherWatch)
+
+> Real-time threat monitoring dashboard with **Groq AI** and MITRE ATT&CK-mapped log analysis
+
+**Threats Detected:**
+- `T1110` Brute Force &nbsp; `T1059` XSS
+- `T1190` SQL Injection &nbsp; `T1566` Phishing
+
+**Stack:** `HTML` `CSS` `JS` `PHP` `Chart.js` `Groq AI API`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 Website Security Audit — Wazuh + DVWA
+[![GitHub](https://img.shields.io/badge/Source-Code-181717?style=flat-square&logo=github)](https://github.com/srinivasulabhaskarprabhat-pixel/Cyber-Security)
+
+> End-to-end security assessment with simulated real-world attack scenarios
+
+**Scope:**
+- SQL Injection & Brute Force simulations
+- Cross-log correlation & alert triage
+- Remediation report with findings
+
+**Stack:** `Wazuh` `DVWA` `Linux`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 PolyGlot Speak — Cloud-Native Translator
+[![Live](https://img.shields.io/badge/🔗_Live-44.201.180.67-58a6ff?style=flat-square)](http://44.201.180.67/)
+[![GitHub](https://img.shields.io/badge/Source-Code-181717?style=flat-square&logo=github)](https://github.com/srinivasulabhaskarprabhat-pixel/PolyGlotSpeak)
+
+> Multilingual translation engine — text, voice & documents across **20+ languages**
+
+**Architecture:**
+- Deployed on AWS EC2 + S3 storage
+- IAM-secured access controls
+- Powered by AWS Translate & Polly
+
+**Stack:** `AWS Translate` `Polly` `EC2` `S3`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 Care Connectors — Healthcare Platform
+[![Live](https://img.shields.io/badge/🔗_Live-careconnectors.42web.io-58a6ff?style=flat-square)](https://careconnectors.42web.io)
+[![GitHub](https://img.shields.io/badge/Source-Code-181717?style=flat-square&logo=github)](https://github.com/srinivasulabhaskarprabhat-pixel/CareConnectors)
+
+> Full-stack hospital management system with appointment scheduling & patient workflows
+
+**Features:**
+- Multi-hospital API integration
+- Secure patient data handling
+- Doctor selection & scheduling
+
+**Stack:** `HTML` `CSS` `JavaScript` `REST API`
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🔍 [Website Security Audit](https://github.com/srinivasulabhaskarprabhat-pixel/Cyber-Security) — Wazuh + DVWA
-> Configured Wazuh to monitor a DVWA environment and simulate real-world attacks
+## 🎓 Certifications
 
-- Analyzed alerts from **SQL Injection** and **Brute Force** simulations
-- Correlated web and system logs; prepared remediation recommendations
+<div align="center">
 
----
+![Vuln Mgmt](https://img.shields.io/badge/✅_Vulnerability_Management-Certified-2ea44f?style=for-the-badge)
+![Splunk](https://img.shields.io/badge/✅_Introduction_to_Splunk-Certified-FF5733?style=for-the-badge)
 
-### 🌐 [PolyGlot Speak](https://github.com/srinivasulabhaskarprabhat-pixel/PolyGlotSpeak) — Cloud-Native Translator
-> Multilingual translator supporting text, voice & document conversion across 20+ languages
-
-- Deployed on **AWS EC2** with S3 storage and IAM-secured access
-- Live: [44.201.180.67](http://44.201.180.67/)
+</div>
 
 ---
 
-### 🏥 [Care Connectors](https://github.com/srinivasulabhaskarprabhat-pixel/CareConnectors) — Hospital Management System
-> Appointment scheduling system with patient management and secure multi-hospital API integration
+## 🏆 Achievements & Recognition
 
-- Live: [careconnectors.42web.io](https://careconnectors.42web.io)
+<div align="center">
 
----
+| 🥇 | 1st Place — Poster Design | SRKRWEC Women's Day 2023 & CSI Dept Fest 2024 |
+|:--:|:--|:--|
+| 🥇 | 1st Mandal · 1st District · 2nd State | Science Fair |
+| 🥈 | Silver Medal | SAST Talent Test |
 
-## 📜 Certifications
-
-- ✅ Vulnerability Management
-- ✅ Introduction to Splunk
-
----
-
-## 🏆 Achievements
-
-- 🥇 **1st Place** – Poster Design, SRKRWEC Women's Day (2023) & CSI Department Fest (2024)
-- 🥇 **1st Mandal, 1st District, 2nd State** – Science Fair
-- 🥈 **Silver Medal** – SAST Talent Test
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Experience Timeline
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srinivasulabhaskarprabhat-pixel&show_icons=true&theme=dark&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srinivasulabhaskarprabhat-pixel&theme=dark&hide_border=true" width="48%"/>
-</p>
+```
+Infosys — Cyber Security Analyst                     Aug 2025 – Jan 2026
+  ↳ SOC monitoring · SIEM triage · IR lifecycle · OWASP ZAP · Wireshark
+
+Black Bucks — Cloud Computing Intern                 Jun 2023 – Sep 2023
+  ↳ AWS EC2 & S3 · IAM · CloudWatch · Least-privilege security
+
+Edunet — Data Analyst                                Jun 2023 – Jul 2023
+  ↳ Python & SQL · Power BI dashboards · 20% marketing engagement boost
+
+Across the Globe — Business Development Manager      Sep 2023 – Jan 2024
+  ↳ Client acquisition · Market research · Cross-functional delivery
+```
 
 ---
 
-<p align="center">
-  <i>"Security is not a product, but a process." — Bruce Schneier</i><br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=srinivasulabhaskarprabhat-pixel&style=flat-square&color=blue" alt="Profile views"/>
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&text=Let's+Secure+the+Digital+World+Together&fontSize=18&fontColor=58a6ff&fontAlignY=65"/>
+
+<br/>
+
+*"Security is not a product, but a process."* — **Bruce Schneier**
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=srinivasulabhaskarprabhat-pixel&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)
+
+</div>
