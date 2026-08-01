@@ -98,6 +98,7 @@ I'm a **Cybersecurity Analyst** based in Andhra Pradesh, India — forged in a l
 <td width="50%" valign="top">
 
 ### 🕵️ ThreatLens — Threat Intelligence Platform
+[![ThreatLens](https://img.shields.io/badge/🔗_Live_Demo-ThreatLens-58a6ff?style=flat-square)](http://threatlens.infy.click/)
 [![GitHub](https://img.shields.io/badge/Source-Code-181717?style=flat-square&logo=github)](https://github.com/srinivasulabhaskarprabhat-pixel/ThreatLens)
 
 > Core PHP TIP that queries the internal database plus **VirusTotal, AbuseIPDB, OTX & Cisco Talos in parallel**, then a weighted correlation engine returns one verdict with a threat score
