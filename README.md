@@ -97,6 +97,20 @@ I'm a **Cybersecurity Analyst** based in Andhra Pradesh, India — forged in a l
 <tr>
 <td width="50%" valign="top">
 
+### 🕵️ ThreatLens — Threat Intelligence Platform
+[![GitHub](https://img.shields.io/badge/Source-Code-181717?style=flat-square&logo=github)](https://github.com/srinivasulabhaskarprabhat-pixel/ThreatLens)
+
+> Core PHP TIP that queries the internal database plus **VirusTotal, AbuseIPDB, OTX & Cisco Talos in parallel**, then a weighted correlation engine returns one verdict with a threat score
+
+**Highlights:**
+- `Weighted` correlation engine &nbsp; `RBAC` 3 roles
+- `22-table` normalized MySQL schema
+
+**Stack:** `PHP 8` `MySQL` `JavaScript` `Chart.js`
+
+</td>
+<td width="50%" valign="top">
+
 ### 🛡️ CipherWatch — AI-Powered SOC Dashboard
 [![CipherWatch](https://img.shields.io/badge/🔗_Live_Demo-cipherwatch.42web.io-58a6ff?style=flat-square)](https://cipherwatch.42web.io)
 [![GitHub](https://img.shields.io/badge/Source-Code-181717?style=flat-square&logo=github)](https://github.com/srinivasulabhaskarprabhat-pixel/CipherWatch)
@@ -110,6 +124,8 @@ I'm a **Cybersecurity Analyst** based in Andhra Pradesh, India — forged in a l
 **Stack:** `HTML` `CSS` `JS` `PHP` `Chart.js` `Groq AI API`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🔍 Website Security Audit — Wazuh + DVWA
@@ -125,8 +141,6 @@ I'm a **Cybersecurity Analyst** based in Andhra Pradesh, India — forged in a l
 **Stack:** `Wazuh` `DVWA` `Linux`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🌐 PolyGlot Speak — Cloud-Native Translator
@@ -143,6 +157,8 @@ I'm a **Cybersecurity Analyst** based in Andhra Pradesh, India — forged in a l
 **Stack:** `AWS Translate` `Polly` `EC2` `S3`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🏥 Care Connectors — Healthcare Platform
@@ -157,6 +173,9 @@ I'm a **Cybersecurity Analyst** based in Andhra Pradesh, India — forged in a l
 - Doctor selection & scheduling
 
 **Stack:** `HTML` `CSS` `JavaScript` `REST API`
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
